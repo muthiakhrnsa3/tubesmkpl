@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/Zaky-Git/tugasbesarmkepl</url>
+          <url>https://maven.pkg.github.com/Muthia-Git/tubesmkpl</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
